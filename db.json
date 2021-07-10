@@ -22,6 +22,6 @@
            ],
   "buzos":[
     {"id":1,"referencia":"bu001", "nombre":"buzo hidden sencillo high-collection", "precio":"$160.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/buzo1.jpg"},
-    {"id":2,"referencia":"bu002", "nombre":"buzo hidden estampado high-collection", "precio":"$160.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/aguardiente-blanco-del-valle-sin-azucar-caneca-x-375-1.webp"}
+    {"id":2,"referencia":"bu002", "nombre":"buzo hidden estampado high-collection", "precio":"$160.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/buzo2.jpg"}
     ]
 }
