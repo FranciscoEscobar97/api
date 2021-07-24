@@ -23,13 +23,12 @@
   "buzos":[
     {"id":1,"referencia":"bu001", "nombre":"buzo hidden sencillo high-collection", "precio":"$160.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/buzo1.jpg"},
     {"id":2,"referencia":"bu002", "nombre":"buzo hidden estampado high-collection", "precio":"$160.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/buzo2.jpg"}
-    ],
+   ],
   "green":[
     {"id":1,"referencia":"gr001", "nombre":"Pipa Astronauta","description":"Silicona libre de bpa, grado alimentario", "precio":"$60.300","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_16262711635176.jpg"},
-    {"id":2,"referencia":"gr002", "nombre":"Bong Ak47","description":"Potente bong irrompible de silicona libre de Bpa, grado alimentario", "precio":"$126.800","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_1626270016919123.jpg"}
-    ],
-  "greenotros":[
-    {"id":1,"referencia":"gro001", "nombre":"Master crusher","description":"Tamaño 60 mm, silicona con cuchillas de cobre", "precio":"$76.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_1626271439048555.jpg"},
-    {"id":2,"referencia":"gro002", "nombre":"Llavero moledor","description":"Tamaño 30 mm metálico", "precio":"$10.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_1626271274097510.jpg"}
-    ]
+    {"id":2,"referencia":"gr002", "nombre":"Bong Ak47","description":"Potente bong irrompible de silicona libre de Bpa, grado alimentario", "precio":"$126.800","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_1626270016919123.jpg"},
+    {"id":3,"referencia":"gro003", "nombre":"Master crusher","description":"Tamaño 60 mm, silicona con cuchillas de cobre", "precio":"$76.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_1626271439048555.jpg"},
+    {"id":4,"referencia":"gro004", "nombre":"Llavero moledor","description":"Tamaño 30 mm metálico", "precio":"$10.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_1626271274097510.jpg"}
+        
+  ]
 }
