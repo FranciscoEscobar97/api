@@ -23,7 +23,7 @@
   "buzos":[
     {"id":1,"referencia":"bu001", "nombre":"buzo hidden sencillo high-collection", "precio":"$160.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/buzo1.jpg"},
     {"id":2,"referencia":"bu002", "nombre":"buzo hidden estampado high-collection", "precio":"$160.000","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/buzo2.jpg"}
-    ]
+    ],
   "green":[
     {"id":1,"referencia":"gr001", "nombre":"Pipa Astronauta","description":"Silicona libre de bpa, grado alimentario", "precio":"$60.300","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_16262711635176.jpg"},
     {"id":2,"referencia":"gr002", "nombre":"Bong Ak47","description":"Potente bong irrompible de silicona libre de Bpa, grado alimentario", "precio":"$126.800","imageUrl":"https://raw.githubusercontent.com/FranciscoEscobar97/imagenes/master/bong.lightblue_1626270016919123.jpg"}
